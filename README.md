@@ -12,7 +12,7 @@ It includes a personal **Portfolio Website** and a **PHP-based Submission Form**
 - **Name:** Progga Dey Troyee  
 - **Student ID:** 232-134-038  
 - **University:** Metropolitan University, Bangladesh  
-- **Department:** Computer Science and Engineering (CSE)  
+- **Department:** Software Engineering (SWE)  
 
 ---
 
